@@ -5,8 +5,11 @@ Hey there! I'm kishore kumar s
  . Like to creat problems to other 😁
  
 🛠  Tech Stack
- .💻   Python Java C++ c
- .🌐   HTML5 CSS JavaScript 
+ .💻   Python  C++ 
+ .🌐   HTML5 CSS JavaScript
+ .🌐   React.js Next.js 
+ .🌐   Node.js Express.js
+ .      PostgresSql
  .⚙️   Git GitHub 
  .🔧   Visual Studio Code 
 
